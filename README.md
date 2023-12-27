@@ -8,9 +8,9 @@ The TOR darknet, or dark web, is a hidden online network accessed through the [T
 | Name | URL |
 | --- | --- |
 | TORNET | [tornetupfu7gcgidt33ftnungxzyfq2pygui5qdoyss34xbgx2qruzid.onion](http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion) |
-| Onix | [onixxxxxbddwewhvktd5zf5s7arpkmkv3m7n4zorjxvfxl7zowhvseid.onion](http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion) |
+| Onix | [onixxxxxbddwewhvktd5zf5s7arpkmkv3m7n4zorjxvfxl7zowhvseid.onion](http://onixxxxxbddwewhvktd5zf5s7arpkmkv3m7n4zorjxvfxl7zowhvseid.onion) |
 | Onix (clearnet) | [torsearch.fun](https://torsearch.fun) |
-| Torch | [xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion](http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion) |
+| Torch | [xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion](http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion) |
 | TorDex | [tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion](http://tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion) |
 | Ahmia | [ahmiacawquincyw7d4kmsopfi667eqdhuva3sxfpxiqymmojzb7fchad.onion](http://ahmiacawquincyw7d4kmsopfi667eqdhuva3sxfpxiqymmojzb7fchad.onion) |
 | Ahmia (clearnet) | [ahmia.fi](https://ahmia.fi) |
