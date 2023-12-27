@@ -1,4 +1,4 @@
-# TOR DARKNET 2023-2024
+# TOR DARKNET SERVICES 2023-2024
 
 The TOR darknet, or dark web, is a hidden online network accessed through the [TOR browser](https://www.torproject.org/download/), offering users anonymity. It hosts various activities, both legal and illicit, with ".onion" domains. Despite legitimate use, it's known for privacy-centric and sometimes illegal transactions due to its anonymous nature.
 
