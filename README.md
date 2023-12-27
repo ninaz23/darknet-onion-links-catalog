@@ -26,7 +26,7 @@ The TOR darknet, or dark web, is a hidden online network accessed through the [T
 | FindTor | [findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion](http://findtorroveq5wdnipkaojfpqulxnkhblymc7aramjzajcvpptd4rjqd.onion) |
 
 
-** Catalogs / Directories / Wiki
+## Catalogs / Directories / Wiki
 
 | Name | URL |
 | --- | --- |
@@ -58,7 +58,7 @@ The TOR darknet, or dark web, is a hidden online network accessed through the [T
 
 | Name | URL |
 | --- | --- |
-| Electrum Wallet | [electrum.org](https://electrum.org) |
+| Electrum Wallet (clearnet) | [electrum.org](https://electrum.org) |
 | Samourai Wallet | [samouraiwallet.com](https://samouraiwallet.com) |
 | Wasabi Wallet | [wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion](http://wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion) |
 | Blockchair | [blkchairbknpn73cfjhevhla7rkp4ed5gg2knctvv7it4lioy22defid.onion](http://blkchairbknpn73cfjhevhla7rkp4ed5gg2knctvv7it4lioy22defid.onion) |
@@ -71,7 +71,7 @@ The TOR darknet, or dark web, is a hidden online network accessed through the [T
 
 | Name | URL |
 | --- | --- |
-| Tails | [tails.boum.org](https://tails.boum.org) |
+| Tails (clearnet) | [tails.boum.org](https://tails.boum.org) |
 | Qubes OS | [qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion](http://qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) |
 | Whonix | [dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion](http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion) |
 | Debian | [5ekxbftvqg26oir5wle3p27ax3wksbxcecnm6oemju7bjra2pn26s3qd.onion](http://5ekxbftvqg26oir5wle3p27ax3wksbxcecnm6oemju7bjra2pn26s3qd.onion) |
