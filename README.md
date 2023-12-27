@@ -136,7 +136,7 @@ The TOR darknet, or dark web, is a hidden online network accessed through the [T
 
 ## How to navigate the darknet?
 
-To explore the darknet, acquire the Tor Browser—a customized version of Firefox designed for enhanced security and access to the dark web.
+To explore the darknet, acquire the Tor Browser - a customized version of Firefox designed for enhanced security and access to the dark web.
 
 You can obtain the Tor Browser for various operating systems, including Windows, Linux, Mac OS, and Android, by visiting:
 [https://www.torproject.org/download/](https://www.torproject.org/download/)
