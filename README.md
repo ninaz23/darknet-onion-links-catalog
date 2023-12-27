@@ -134,7 +134,7 @@ The TOR darknet, or dark web, is a hidden online network accessed through the [T
 | Tor Guide | [guideeedvgbpkthetphncab5aqj7dp5t74y7vxsoonnvmaeamq74vuqd.onion](http://guideeedvgbpkthetphncab5aqj7dp5t74y7vxsoonnvmaeamq74vuqd.onion) |
 
 
-** How to navigate the darknet?
+## How to navigate the darknet?
 
 To explore the darknet, acquire the Tor Browser—a customized version of Firefox designed for enhanced security and access to the dark web.
 
@@ -145,10 +145,10 @@ For iOS users, the recommended browser is Onion Browser, available at:
 [https://onionbrowser.com/](https://onionbrowser.com/)
 
 
-** What is a hidden service?
+## What is a hidden service?
 Hidden services can only be accessed within the Tor network, and their domain names conclude with .onion. These sites are not indexed by any public search engine. The exclusive means of reaching .onion sites is by knowing their corresponding addresses.
 
 
-** Sources:
+## Sources:
 
 http://google.com
